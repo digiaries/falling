@@ -1,0 +1,9 @@
+.svn
+old
+~$*
+*.sublimePRJ
+*.sublime-workspace
+*.sublime-project
+grunt.js
+.htaccess
+node_modules
